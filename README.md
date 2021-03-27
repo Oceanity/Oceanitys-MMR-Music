@@ -31,7 +31,7 @@ Music I've sequenced for Majora's Mask Randomizer. Click the ▶️ by any song 
 
 ### Skies of Arcadia
 
--   [Dungeon Cave](https://github.com/Oceanity/Oceanitys-MMR-Music/blob/main/mmrs/soa-dungeon-cave.mmrs) [▶️️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/soa-dungeon-cave.ogg)
+-   [Dungeon Cave](https://github.com/Oceanity/Oceanitys-MMR-Music/blob/main/mmrs/soa-dungeon-cave.mmrs) [▶️️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/soa-dungeon-cave.ogg)
 
 ### Sonic Mania
 
