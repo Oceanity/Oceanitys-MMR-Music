@@ -27,7 +27,7 @@ Music I've sequenced for Majora's Mask Randomizer. Click the ▶️ by any song 
 
 ### MOTHER 3
 
--   [Gentel Rain](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/mother-3-gentle-rain.mmrs) [▶️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/mkds-waluigi-pinball.ogg)
+-   [Gentle Rain](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/mother-3-gentle-rain.mmrs) [▶️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/mkds-waluigi-pinball.ogg)
 
 ### Skies of Arcadia
 
