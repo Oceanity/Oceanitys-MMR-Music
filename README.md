@@ -41,6 +41,10 @@ Music I've sequenced for Majora's Mask Randomizer. Click the ▶️ by any song 
 
 -   [Mirage Saloon Act 1S (Skyway Octane)](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/sm-mirage-saloon-act-1s.mmrs) [▶️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/sm-mirage-saloon-act-1s.ogg)
 
+### Super Ghouls 'n Ghosts
+
+-   [The Haunted Graveyard (Stage 1)](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/sgng-the-haunted-graveyard.mmrs) [▶️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/sgng-the-haunted-graveyard.ogg)
+
 ### Zelda: The Wand of Gamelon
 
 -   [Overworld Map](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/zwog-overworld-map.mmrs) [▶️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/zwog-overworld-map.ogg)
