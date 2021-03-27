@@ -8,6 +8,10 @@ Music I've sequenced for Majora's Mask Randomizer. Click the ▶️ by any song 
 
 -   [The Roost](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/acww-the-roost-v2.mmrs) [▶️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/acww-the-roost-v2.ogg)
 
+### Duck Tales
+
+-   [The Moon](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/dt-the-moon.mmrs) [▶️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/dt-the-moon.ogg)
+
 ### EarthBound
 
 -   [Buy Somethin' Will Ya!](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/eb-buy-somethin-will-ya.mmrs) [▶️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/eb-buy-somethin-will-ya.ogg)
