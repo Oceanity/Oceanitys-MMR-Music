@@ -15,6 +15,7 @@ Music I've sequenced for Majora's Mask Randomizer. Click the ▶️ by any song 
 ### EarthBound
 
 -   [Buy Somethin' Will Ya!](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/eb-buy-somethin-will-ya.mmrs) [▶️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/eb-buy-somethin-will-ya.ogg)
+-   [Twoson](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/eb-twoson.mmrs) [▶️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/eb-twoson.ogg)
 
 ### Final Fantasy 9
 
