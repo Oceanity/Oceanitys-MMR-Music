@@ -54,6 +54,6 @@ Music I've sequenced for Majora's Mask Randomizer. Click the ▶️ by any song 
 
 -   [Overworld Map](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/zwog-overworld-map.mmrs) [▶️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/zwog-overworld-map.ogg)
 
-### Miscelaneous
+### Miscellaneous
 
 -   [Theme From Rocky](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/theme-from-rocky.mmrs) [▶️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/theme-from-rocky.ogg)
