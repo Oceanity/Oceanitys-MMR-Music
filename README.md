@@ -8,7 +8,7 @@ Music I've sequenced for Majora's Mask Randomizer. Click the ▶️ by any song 
 
 -   [The Roost](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/acww-the-roost-v2.mmrs) [▶️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/acww-the-roost-v2.ogg)
 
-### Donkey Kong Country 2
+### Donkey Kong Country 2: Diddy's Kong Quest
 
 -   [Stickerbush Symphony (Bramble Blast)](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/dkc2-stickerbush-symphony.mmrs) [▶️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/dkc2-stickerbush-symphony.ogg)
 
@@ -53,3 +53,7 @@ Music I've sequenced for Majora's Mask Randomizer. Click the ▶️ by any song 
 ### Zelda: The Wand of Gamelon
 
 -   [Overworld Map](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/zwog-overworld-map.mmrs) [▶️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/zwog-overworld-map.ogg)
+
+### Miscelaneous
+
+-   [Theme From Rocky](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/theme-from-rocky.mmrs) [▶️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/theme-from-rocky.ogg)
