@@ -56,4 +56,5 @@ Music I've sequenced for Majora's Mask Randomizer. Click the ▶️ by any song 
 
 ### Miscellaneous
 
+-   [Rick Astley - Never Gonna Give You Up](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/rick-astley-never-gonna-give-you-up.mmrs) [▶️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/rick-astley-never-gonna-give-you-up.ogg)
 -   [Theme From Rocky](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/theme-from-rocky.mmrs) [▶️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/theme-from-rocky.ogg)
