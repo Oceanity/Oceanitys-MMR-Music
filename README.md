@@ -37,7 +37,8 @@ Music I've sequenced for Majora's Mask Randomizer. Click the ▶️ by any song 
 
 ### MOTHER 3
 
--   [Gentle Rain](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/mother-3-gentle-rain.mmrs) [▶️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/mkds-waluigi-pinball.ogg)
+-   [Gentle Rain](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/mother-3-gentle-rain.mmrs) [▶️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/mother-3-gentle-rain.ogg)
+-   [Sorrowful Tazmily](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/mother-3-sorrowful-tazmily.mmrs) [▶️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/mother-3-sorrowful-tazmily.ogg)
 
 ### OutRun
 
