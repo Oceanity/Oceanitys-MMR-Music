@@ -41,7 +41,7 @@ Music I've sequenced for Majora's Mask Randomizer. Click the ▶️ by any song 
 
 ### OutRun
 
--   [OutRun](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/outrun-passing-breeze.mmrs) [▶️️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/outrun-passing-breeze.ogg)
+-   [Passing Breeze](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/mmrs/outrun-passing-breeze.mmrs) [▶️️](https://github.com/Oceanity/Oceanitys-MMR-Music/raw/main/ogg/outrun-passing-breeze.ogg)
 
 ### Skies of Arcadia
 
